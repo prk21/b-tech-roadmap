@@ -30,42 +30,92 @@
 * Portfolio Website (HTML/CSS)
 * Snake Game (Logic + UI)
 
-## 📆 Weekly Breakdown
+# 📘 Year 1: B.Tech Roadmap — Week-by-Week Guide with Resources
 
-### Month 1: Programming Language Basics
+A beginner-friendly, week-by-week guide to help B.Tech students build strong programming fundamentals, explore tech, and prepare for future opportunities.
 
-* Week 1: Hello World, Variables, Data Types, Input/Output
-* Week 2: Conditional Statements, Loops
-* Week 3: Arrays, Strings Basics
-* Week 4: Functions, Scope, Recursion Basics
+---
 
-### Month 2: Intermediate Concepts
+## 📦 Month 1: Programming Language Basics
 
-* Week 5: Pattern Problems, String Manipulation
-* Week 6: 1D/2D Arrays, Basic Searching and Sorting
-* Week 7: Recursion Deep Dive
-* Week 8: Object-Oriented Programming (Class, Object, Inheritance)
+### ✅ Week 1: Hello World, Variables, Data Types, Input/Output
+- **C++**: [Apna College C++ #1-4](https://youtube.com/playlist?list=PLfqMhTWNBTe0b2nM6JHVCnAkhQRGiZMSJ)
+- **Java**: [Kunal Kushwaha Java #1-4](https://youtube.com/playlist?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA)
+- **Python**: [CS Dojo Python #1](https://www.youtube.com/watch?v=Z1Yd7upQsXY)
 
-### Month 3: Git & Mini Projects
+### ✅ Week 2: Conditional Statements, Loops
+- **C++**: Apna College C++ #5-8  
+- **Java**: Kunal Kushwaha Java #5-8  
+- **Python**: [FreeCodeCamp Python Loops](https://www.youtube.com/watch?v=VchuKL44s6E)
 
-* Week 9: Git & GitHub Basics, Repos, Commits, Branches
-* Week 10: Number Guessing Game (with Git integration)
-* Week 11: Simple Portfolio Website (HTML/CSS only)
-* Week 12: Snake Game using C++/Java/Python UI libs
+### ✅ Week 3: Arrays, Strings Basics
+- **C++**: [Apna College Arrays Playlist](https://www.youtube.com/watch?v=AT14lCXuMKI)
+- **Java**: [Kunal Kushwaha Arrays](https://youtu.be/ZK7CHc4lD9Q)
+- **Python**: [Arrays and Lists - Corey Schafer](https://youtu.be/W8KRzm-HUcc)
 
-### Month 4: Exploration Month
+### ✅ Week 4: Functions, Scope, Recursion Basics
+- [Recursion Basics - CodeWithHarry](https://youtu.be/Lx9zgZCMqXE)
 
-* Week 13: HTML + CSS + JS Basics
+---
 
-  * Resource: [Web Dev for Beginners (Microsoft)](https://github.com/microsoft/Web-Dev-For-Beginners)
-* Week 14: React or Android Basics (pick one)
+## 📦 Month 2: Intermediate Concepts
 
-  * React: [FreeCodeCamp React Course](https://www.youtube.com/watch?v=bMknfKXIFA8)
-  * Android: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
-* Week 15: Try one ML mini-project (with dataset)
+### ✅ Week 5: Pattern Problems, String Manipulation
+- **C++**: [Patterns - Apna College](https://youtu.be/tNm_NNSB3_w)
+- **Java**: [Pattern Problems - Pepcoding](https://youtu.be/6u_hWxbOc7E)
+- **Python**: [Pattern Problems - Coding Ninjas](https://youtu.be/hMJAlbJIS7E)
 
-  * Resource: [Teachable Machine by Google](https://teachablemachine.withgoogle.com/)
-* Week 16: Write a blog on what you’ve explored so far (use Medium/Hashnode)
+### ✅ Week 6: 1D/2D Arrays, Basic Searching and Sorting
+- [TakeUForward Sorting Guide](https://takeuforward.org/arrays)
+- [Sorting Algorithm Visualizer](https://visualgo.net/en/sorting)
+
+### ✅ Week 7: Recursion Deep Dive
+- [Aditya Verma Recursion Playlist](https://youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go)
+
+### ✅ Week 8: OOP Concepts (Class, Object, Inheritance)
+- **Java**: [OOP - Apna College](https://youtu.be/UmnCZ7-9yDY)
+- **C++**: [OOP - CodeWithHarry](https://youtu.be/oOmbTjU2x20)
+- **Python**: [Python OOP - Bro Code](https://youtu.be/JeznW_7DlB0)
+
+---
+
+## 📦 Month 3: Git & Mini Projects
+
+### ✅ Week 9: Git & GitHub Basics
+- [Git + GitHub for Beginners - CodeWithHarry](https://youtu.be/apGV9Kg7ics)
+
+### ✅ Week 10: Number Guessing Game
+- **C++**: [C++ Game Tutorial](https://youtu.be/cPP3b6k-MrU)
+- **Java**: [Number Guessing Game - Java](https://youtu.be/i1bqGe5fC38)
+- **Python**: [Python Game - Tech With Tim](https://youtu.be/8ext9G7xspg)
+
+### ✅ Week 11: Simple Portfolio Website (HTML/CSS)
+- [HTML + CSS Crash Course - Traversy Media](https://youtu.be/UB1O30fR-EE)
+
+### ✅ Week 12: Snake Game using UI libs
+- **Python (Pygame)**: [Build Snake Game](https://youtu.be/XGf2GcyHPhc)
+- **Java**: [Snake Game Java](https://youtu.be/bI6e6qjJ8JQ)
+- **C++**: [Snake Game with SFML](https://youtu.be/K5wz5fUgdGg)
+
+---
+
+## 📦 Month 4: Exploration Month
+
+### ✅ Week 13: HTML + CSS + JS Basics
+- [Web Dev for Beginners by Microsoft](https://github.com/microsoft/Web-Dev-For-Beginners)
+
+### ✅ Week 14: React or Android Basics (Pick One)
+- **React**: [FreeCodeCamp React Course](https://www.youtube.com/watch?v=bMknfKXIFA8)
+- **Android (Kotlin)**: [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
+
+### ✅ Week 15: Try One ML Mini Project
+- [Google Teachable Machine](https://teachablemachine.withgoogle.com/)
+- [Awesome ML Projects List](https://github.com/EthicalML/awesome-production-machine-learning#projects)
+
+### ✅ Week 16: Write Your First Blog Post
+- Platforms: [Hashnode](https://hashnode.com/), [Medium](https://medium.com/)
+- Guide: [How to Write Your First Blog](https://youtu.be/Gt8QxJ5DUE4)
+
 
 ---
 
